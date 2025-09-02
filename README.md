@@ -13,7 +13,7 @@
 ### 🎯 Objective
 Predict driver performance and race outcomes using historical F1 data while extracting actionable insights about racing patterns and performance factors.
 
-## ✨ Key Features & Technical Skills
+## ✨ Key Features & Technical Skills...
 
 ### 🔍 **Data Engineering**
 - **Multi-source Integration**: Merged 6 datasets (25K+ records)
