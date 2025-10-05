@@ -10,7 +10,7 @@
 
 **End-to-end data science project** analyzing Formula 1 World Championship data (1950-2020) using machine learning, statistical analysis, and interactive visualizations. Demonstrates complete ML lifecycle from data preprocessing to model optimization achieving **100% accuracy**.
 
-### 🎯 Objective
+### 🎯 Objective///
 Predict driver performance and race outcomes using historical F1 data while extracting actionable insights about racing patterns and performance factors.
 
 ## ✨ Key Features & Technical Skills
